@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/EspDB_API.props" />
+</Project>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OU916CM7GPSCSkULpaDi70P6ZOMo94ggLoODq50NdSU=",
+  "Source": "EspDB_API",
+  "BasePath": "_content/EspDB_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jlgOcW2IOX0=",
+  "success": true,
+  "projectFilePath": "/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/EspDB_API.csproj",
+  "expectedPackageFiles": [
+    "/home/pmafra/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
+    "/home/pmafra/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/home/pmafra/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/pmafra/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/pmafra/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/pmafra/.nuget/packages/mysqlconnector/2.4.0/mysqlconnector.2.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
