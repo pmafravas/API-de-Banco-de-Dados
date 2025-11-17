@@ -32,3 +32,38 @@
 /home/pedro/Documents/Codigo/Git/API de Banco de Dados/Web API IOT2/EspDB_API/obj/Debug/net9.0/EspDB_API.pdb
 /home/pedro/Documents/Codigo/Git/API de Banco de Dados/Web API IOT2/EspDB_API/obj/Debug/net9.0/EspDB_API.genruntimeconfig.cache
 /home/pedro/Documents/Codigo/Git/API de Banco de Dados/Web API IOT2/EspDB_API/obj/Debug/net9.0/ref/EspDB_API.dll
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.csproj.AssemblyReference.cache
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.GeneratedMSBuildEditorConfig.editorconfig
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.AssemblyInfoInputs.cache
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.AssemblyInfo.cs
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.csproj.CoreCompileInputs.cache
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.MvcApplicationPartsAssemblyInfo.cs
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.MvcApplicationPartsAssemblyInfo.cache
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.sourcelink.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.dll
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/refint/EspDB_API.dll
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.pdb
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/appsettings.Development.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/appsettings.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/EspDB_API.staticwebassets.endpoints.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/EspDB_API
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/EspDB_API.deps.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/EspDB_API.runtimeconfig.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/EspDB_API.dll
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/EspDB_API.pdb
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/Dapper.dll
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/bin/Debug/net9.0/MySqlConnector.dll
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/scopedcss/bundle/EspDB_API.styles.css
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/staticwebassets.build.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/staticwebassets.build.json.cache
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/staticwebassets.development.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.csproj.Up2Date
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/EspDB_API.genruntimeconfig.cache
+/home/pmafra/Documents/Codigo/Git/API de Banco de Dados/EspDB_API/obj/Debug/net9.0/ref/EspDB_API.dll

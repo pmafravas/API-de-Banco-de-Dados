@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EspDB_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e88df2d8b45565b6c6539a9cd4cc97d29b74e38e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a00fdae95595bc3b394cec3fb148b84c72e8ddf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("EspDB_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EspDB_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
