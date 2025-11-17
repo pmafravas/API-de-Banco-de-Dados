@@ -2,11 +2,17 @@ namespace EspDB_API.Models;
 
 public class Usuario
 {
-    private int IdUser { get; set; }
-    private string Nome { get; set; }
-    private string IdBluetooth { get; set; }
-    private bool FlagPodeEntrar { get; set; }
-    private bool FlagHoraControlada { get; set; }
-    private ControleEntrada controleEntrada { get; set; }
-    private RegistroEntrada registroEntrada { get; set; }
+    public int IdUser { get; set; }
+    public string Nome { get; set; }
+    public string IdBluetooth { get; set; }
+    public bool FlagPodeEntrar { get; set; }
+    public bool FlagHoraControlada { get; set; }
+    public ControleEntrada controleEntrada { get; set; }
+    public RegistroEntrada registroEntrada { get; set; }
+
+    public Usuario(string idBluetooth, string nomeDispositivo)
+    {
+        Nome = "GenericUser_" + nomeDispositivo;
+        IdBluetooth = idBluetooth;
+    }
 }
